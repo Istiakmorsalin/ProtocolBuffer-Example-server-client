@@ -18,3 +18,8 @@ This repository contains
   python RWServer.py
 
 # Client- iOS
+
+1. Import project in Xcode (XCode 8.2 is recommended)
+
+2. Run and Voila !
+
